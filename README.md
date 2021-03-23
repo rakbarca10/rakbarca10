@@ -4,7 +4,7 @@ I'm an **Engineering student**.
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I am currently pursuing B.Tech in ECE from BIT MESRA.
+Currently pursuing B.Tech in ECE from BIT MESRA.
 
 ### Talking about Personal Stuffs:
 
@@ -36,3 +36,4 @@ I am currently pursuing B.Tech in ECE from BIT MESRA.
 - Weibo: [![Animaker](https://img.shields.io/badge/@Rakshith_Ramesh-E6162D?style=flat-square&logo=sina-animaker&logoColor=white)](https://app.animaker.com/animo/M4GZJNBkNic19FWP/)
 - Email: [![Email](https://img.shields.io/badge/communitymanagerrakshith@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:https://app.animaker.com/animo/M4GZJNBkNic19FWP/)
 
+![Jokes Card](https://readme-jokes.vercel.app/api) 
