@@ -10,7 +10,7 @@ Currently pursuing B.Tech in ECE from BIT MESRA.
 
 - 👨🏽‍💻 I’m currently in 4th year; 
 - 🤔 I am passionate about community management and operations.;
-- 💼 Part of Community Team at LeverageEdu,Smartbridge,Sudan's Tech,Give My Certificate;
+- 💼 Part of Community Team at LeverageEdu,Smartbridge,Sudan's Tech,Give My Certificate, Organizer Hack The Mountains, AngelHack Ambassador, MLH Mentor;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
