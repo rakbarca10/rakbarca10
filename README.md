@@ -1,16 +1,16 @@
 # Hi, I'm Rakshith Ramesh 🐐
 
-I'm an **Engineering student**.
+I'm a **BI Analyst**. Previously worked as a Brand Manager.
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Currently pursuing B.Tech in ECE from BIT MESRA.
+Completed my graduation in Electronics and Communication Engineering from BIT MESRA, Ranchi.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently in 4th year; 
+- 👨🏽‍💻 I’m currently working as a Business Intelligence Analyst; 
 - 🤔 I am passionate about community management and operations.;
-- 💼 Part of Community Team at LeverageEdu,Smartbridge,Sudan's Tech,Give My Certificate, Organizer Hack The Mountains, AngelHack Ambassador, MLH Mentor;
+- 💼 Worked with startups in Various sectors like Agriculture, Ecommerce, Recruitment, Edtech, Fashion ;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
