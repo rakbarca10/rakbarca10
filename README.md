@@ -1,6 +1,6 @@
 # Hi, I'm Rakshith Ramesh 🐐
 
-I'm a **BI Analyst**. Previously worked as a Brand Manager.
+I'm currently working as a **Manager - Business Operations** for a Medtech startup. I previously worked as a BI Analyst and as an Associate Brand Manager for a Edtech Startup.
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
