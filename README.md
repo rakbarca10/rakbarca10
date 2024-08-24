@@ -8,9 +8,9 @@ Completed my graduation in Electronics and Communication Engineering from BIT ME
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working as a Business Intelligence Analyst; 
+- 👨🏽‍💻 I’m currently working as a Business Operations Manager; 
 - 🤔 I am passionate about community management and operations.;
-- 💼 Worked with startups in Various sectors like Agriculture, Ecommerce, Recruitment, Edtech, Fashion ;
+- 💼 Worked with startups in Various sectors like Agriculture, E-commerce, Recruitment, Edtech, Fashion ;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
