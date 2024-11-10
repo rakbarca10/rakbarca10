@@ -33,7 +33,6 @@ Completed my graduation in Electronics and Communication Engineering from BIT ME
 
 - Personal website: [![website](https://img.shields.io/badge/https://rakshith-portfolio10.netlify.app/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://rakshith-portfolio10.netlify.app/)
 - Twitter: [![Twitter](https://img.shields.io/badge/@RakshithRames18-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RakshithRames18) 
-- Animaker: [![Animaker](https://img.shields.io/badge/@Rakshith_Ramesh-E6162D?style=flat-square&logo=sina-animaker&logoColor=white)](https://app.animaker.com/animo/M4GZJNBkNic19FWP/)
 - Email: [![Email](https://img.shields.io/badge/communitymanagerrakshith@gmail.com/rakshithr@rakshith.tech-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:https://app.animaker.com/animo/M4GZJNBkNic19FWP/)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
