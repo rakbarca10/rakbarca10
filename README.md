@@ -14,18 +14,18 @@ Background:
 Business Operations Manager at Butterfly Learnings — scaled operations, cut cost-per-lead 3.6x, grew ad revenue 15-20x
 Director of Navriseup India Care Foundation — 3,000+ families reached, 40+ volunteers mobilized
 
-Passionate About:
+Passionate About:                            
 
-🛠️ Building scalable operations from scratch
-📊 Data-driven decision making
-🌱 Social impact + sustainability
-🤝 Community building & knowledge sharing
+🛠️ Building scalable operations from scratch                      
+📊 Data-driven decision making                   
+🌱 Social impact + sustainability                     
+🤝 Community building & knowledge sharing                  
 
-Online:
+Online:                  
 
-🎥 YouTube — 100K+ views on business & travel content
-🗺️ Google Local Guide Level 8 — 3.7M views, 500+ detailed reviews
-💭 Quora — 53K followers, answering startup & operations questions
+🎥 YouTube — 100K+ views on business & travel content             
+🗺️ Google Local Guide Level 8 — 3.7M views, 500+ detailed reviews             
+💭 Quora — 53K followers, answering startup & operations questions            
 
 ### Talking about Personal Stuffs:
 
