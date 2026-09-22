@@ -1,15 +1,34 @@
 # Hi, I'm Rakshith Ramesh 🐐
 
-I'm currently working as a **Manager - Business Operations** for a Medtech startup. I previously worked as a BI Analyst and as an Associate Brand Manager for a Edtech Startup.
+MBA candidate at IE Business School Madrid (ESMT Berlin Exchange '26) | Operations & Strategy Leader | Founder, Navriseup India Care Foundation
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Completed my graduation in Electronics and Communication Engineering from BIT MESRA.
+📍 Based in Berlin, Germany
+💼 Completed my graduation in Electronics and Communication Engineering from BIT MESRA.
+🎓 Completing MBA at IE Madrid
+
+Background:
+
+5+ years building operations and strategy across startups (Webers Tech, Undepozit), healthtech, edtech, and social impact
+Business Operations Manager at Butterfly Learnings — scaled operations, cut cost-per-lead 3.6x, grew ad revenue 15-20x
+Director of Navriseup India Care Foundation — 3,000+ families reached, 40+ volunteers mobilized
+
+Passionate About:
+
+🛠️ Building scalable operations from scratch
+📊 Data-driven decision making
+🌱 Social impact + sustainability
+🤝 Community building & knowledge sharing
+
+Online:
+
+🎥 YouTube — 100K+ views on business & travel content
+🗺️ Google Local Guide Level 8 — 3.7M views, 500+ detailed reviews
+💭 Quora — 53K followers, answering startup & operations questions
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working as a Business Operations Manager; 
-- 🤔 I am passionate about community management and operations.;
 - 💼 Worked with startups in Various sectors like Agriculture, E-commerce, Recruitment, Edtech, Fashion ;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
