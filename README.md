@@ -12,7 +12,7 @@ Background:
 
 5+ years building operations and strategy across startups (Webers Tech, Undepozit), healthtech, edtech, and social impact
 Business Operations Manager at Butterfly Learnings — scaled operations, cut cost-per-lead 3.6x, grew ad revenue 15-20x
-Director of Navriseup India Care Foundation — 3,000+ families reached, 40+ volunteers mobilized
+Director of Navriseup India Care Foundation — 5,000+ families reached, 50+ volunteers mobilized
 
 Passionate About:                            
 
