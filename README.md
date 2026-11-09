@@ -21,9 +21,9 @@ Passionate About:
 
 Online:                  
 
-🎥 YouTube — 100K+ views on business & travel content             
-🗺️ Google Local Guide Level 8 — 3.7M views, 500+ detailed reviews             
-💭 Quora — 53K followers, answering startup & operations questions            
+🎥 YouTube — 150K+ views on business & travel content             
+🗺️ Google Local Guide Level 8 — 4.1M views, 500+ detailed reviews             
+💭 Quora — 53K views, answering sports, ABA therapy, startup & operations questions            
 
 ### Talking about Personal Stuffs:
 
